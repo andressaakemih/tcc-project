@@ -1,5 +1,5 @@
 .rodape {
-  background-color: #333;
+  background-color: #c3c3c3;
   text-align: center;
 }
 
@@ -40,7 +40,7 @@
 }
 
 .rodape-nav-link {
-  color: #fff;
+  color: #3e1b8e;
   text-decoration: none;
   line-height: 3;
 }
@@ -53,7 +53,7 @@
 @media (min-width: 830px) {
 
   .rodape-logo {
-    max-height: 50px;
+    max-height: 65px;
     display: block;
   }
 
