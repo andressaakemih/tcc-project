@@ -1,2 +1,2 @@
-Projec TCC - Acessibilidade Web
+Project TCC - Acessibilidade Web
 <tr>
