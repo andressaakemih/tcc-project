@@ -1,10 +1,13 @@
+:root{
+  --background-secaoDestaque: var(#fff);
+}
 
 .secaoDestaque {
   text-align: center;
   background-size: cover;
-  background-color: #00161c;
+  background-color: var(--background-secaoDestaque);
   padding: 10em 2em 3em 2em;
-  color: #fff;
+  color: #000;
 }
 
 
@@ -26,7 +29,7 @@
 
 .secaoDestaque-cta {
   background-color: transparent;
-  border: 1px solid #fff;
+  border: 1px solid #000;
   font-size: 1em;
   width: 100%;
   max-width: 300px;
@@ -40,15 +43,11 @@
 
 .secaoDestaque-cta:hover,
 .secaoDestaque-cta:focus {
-  background: #fff;
+  background: #000;
   color: #333;
 }
 
 @media (min-width: 830px) {
-
-  .secaoDestaque {
-    background-image: url(../img/bg-intro.jpg);
-  }
 
   .secaoDestaque-titulo {
     font-size: 4em;
