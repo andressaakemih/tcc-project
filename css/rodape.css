@@ -22,18 +22,6 @@
   display: block;
 }
 
-.rodape-social-link--facebook {
-  background-image: url(../img/facebook.png);
-}
-
-.rodape-social-link--twitter {
-  background-image: url(../img/twitter.png);
-}
-
-.rodape-social-link--instagram {
-  background-image: url(../img/instagram.png);
-}
-
 .rodape-nav-item {
   display: inline-block;
   margin: 0 8px;
