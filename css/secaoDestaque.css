@@ -14,7 +14,7 @@
   font-weight: bold;
   margin-bottom: 1em;
   font-family: 'Montserrat', serif;
-  font-size: 1em;
+  font-size: 30px;
   line-height: 1;
 }
 
@@ -48,7 +48,7 @@
 @media (min-width: 830px) {
 
   .secaoDestaque-titulo {
-    font-size: 3em;
+    font-size: 30px;
   }
 
 }
