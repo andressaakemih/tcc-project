@@ -18,6 +18,12 @@
   max-width: 400px;
 }
 
+pre code {
+  background: none;
+  color: var(--text-primary);
+  padding: 0;
+}
+
 
 @media (min-width: 830px) {
 
